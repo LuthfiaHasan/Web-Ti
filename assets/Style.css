@@ -1,0 +1,26 @@
+
+		.TI{
+			background-color: red;
+			padding: 20px;
+		}
+		.Homepage{
+			background-color: grey;
+			height: 500px;
+			width: 30%;
+			float: left;
+		}
+		.Welcome{
+			background-color: white;
+			height: 500px;
+			width: 70%;
+			text-align: justify;
+			float: left;
+		}
+		.footer{
+			background-color: red;
+			clear: both;
+			padding: 10px;
+		}
+		.center{
+			text-align: center;
+		}
